@@ -7,4 +7,6 @@ NIM: 2341720124
 
 Kelas: TI-3A
 
+No. Absen: 13
+
 Mata Kuliah: Cloud Computing
